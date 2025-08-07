@@ -35,7 +35,7 @@ Atualmente, foco em me desenvolver como **Dev back-end**, aplicando o que aprend
 
 ## 📌 Em resumo:
 
-Como estudante de Ciência da Computação, uso meu GitHub para documentar minha jornada como dev. Valorizo a prática como forma de aprender de verdade — por isso, cada repositório aqui representa um passo na minha evolução.
+Como estudante de Ciência da Computação, uso meu GitHub para documentar minha jornada como dev. Valorizo a prática como forma de aprender de verdade, por isso, cada repositório aqui representa um passo na minha evolução.
 
 Sinta-se à vontade para acompanhar meus projetos, sugerir melhorias ou trocar uma ideia! 🤝
 
