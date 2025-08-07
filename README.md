@@ -1,6 +1,6 @@
-# 👋 Fala aí, eu sou o Wellynton Cardoso!
+# 🫡 Fala aí, eu sou o Wellynton Cardoso!
 
-Sou estudante de Ciência da Computação e apaixonado por tecnologia. Tenho direcionado meus estudos para **JavaScript**, **Node.js**, **Java**, **Python** e desenvolvimento **Backend**, buscando sempre transformar conhecimento em soluções práticas.
+Sou estudante de Ciências da Computação na FSG | Centro Universitário da Serra Gaúcha e faço cursos complementares na Alura. Tenho direcionado meus estudos para **JavaScript**, **Node.js**, **Java**, **Python** e desenvolvimento **Backend**, buscando sempre transformar conhecimento em soluções práticas.
 
 Atualmente, foco em me desenvolver como **Dev back-end**, aplicando o que aprendo em projetos reais e desafios do dia a dia.
 
