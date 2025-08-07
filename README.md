@@ -1,4 +1,4 @@
-#👋 Fala aí, eu sou o Wellynton Cardoso!
+# 👋 Fala aí, eu sou o Wellynton Cardoso!
 
 Sou estudante de Ciência da Computação e apaixonado por tecnologia. Tenho direcionado meus estudos para **JavaScript**, **Node.js** e desenvolvimento **Backend**, buscando sempre transformar conhecimento em soluções práticas.
 
