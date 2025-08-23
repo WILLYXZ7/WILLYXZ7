@@ -10,7 +10,7 @@ Atualmente, foco em me desenvolver como **Dev back-end**, aplicando o que aprend
 
 - 🧩 Gosto de resolver problemas com lógica e criatividade.
 - 📚 Estudante e universitário, sempre explorando novas tecnologias.
-- 🧑‍💻 Estudando atualmente: JavaScript, Node.js e lógica de programação.
+- 🧑‍💻 Estudando atualmente: JavaScript, Node.js, Java e lógica de programação.
 - 🧠 Interessado em Inteligência Artificial, APIs e automações.
 - 🚀 Construo projetos para praticar e mostrar minha evolução.
 
